@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "images": "../images/hero/cards/1.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "новинка",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+    "heart": "../images/hero/cards/heart.svg",
+    "line": "../images/sale/cards/red-line.svg"
+  },{
+    "id": 2,
+    "images": "../images/hero/cards/2.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+  "heart": "../images/hero/cards/heart.svg",
+  "line": "../images/sale/cards/red-line.svg"
+
+
+},{
+    "id": 3,
+    "images": "../images/hero/cards/3.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "новинка",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+  "heart": "../images/hero/cards/heart.svg",
+  "line": "../images/sale/cards/red-line.svg"
+
+
+},{
+    "id": 4,
+    "images": "../images/hero/cards/4.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+  "heart": "../images/hero/cards/heart.svg",
+  "line": "../images/sale/cards/red-line.svg"
+
+
+},{
+    "id": 5,
+    "images": "../images/hero/cards/5.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+  "heart": "../images/hero/cards/heart.svg",
+  "line": "../images/sale/cards/red-line.svg"
+
+
+},{
+    "id": 6,
+    "images": "../images/hero/cards/6.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+  "heart": "../images/hero/cards/heart.svg",
+  "line": "../images/sale/cards/red-line.svg"
+
+
+},{
+    "id": 7,
+    "images": "../images/hero/cards/7.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+  "heart": "../images/hero/cards/heart.svg",
+  "line": "../images/sale/cards/red-line.svg"
+
+
+},{
+    "id": 8,
+    "images": "../images/hero/cards/8.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+  "heart": "../images/hero/cards/heart.svg",
+  "line": "../images/sale/cards/red-line.svg"
+
+
+},{
+    "id": 9,
+    "images": "../images/hero/cards/9.png",
+    "title": "Ботильоны Wilmar черные с цепочкой",
+    "price": "5 100",
+    "done": "",
+    "item": "Артикул: 515314",
+    "boots": "Батильоны",
+  "heart": "../images/hero/cards/heart.svg",
+  "line": "../images/sale/cards/red-line.svg"
+
+
+
+}
+]
